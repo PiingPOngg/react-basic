@@ -37,3 +37,8 @@ body{
   padding: 16px;
   display: block;
 }
+
+.contactInfo p{
+  margin: 0px;
+  font-size: 12px;
+}

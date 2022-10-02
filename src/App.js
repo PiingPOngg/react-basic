@@ -47,9 +47,16 @@ function App() {
             </Routes>
           </div>
         </Router>
+        <div className="contactInfo">
+          <p>By: Pongsin Lertchawalit</p>
+          <p>Email: pongsinlertchawalit@gmail.com</p>
+          <p>Contact:  +65 88154624</p>
+        </div>
       </div>
     </DataContext.Provider>
   );
 }
 
 export default App;
+
+
